@@ -253,4 +253,4 @@ void winnaarRidel() {
 
 }
 
-//this terrible code was writtin by jeffrey. 1st year electrical engineer student@avans 
+//this terrible code was writtin by jeffrey. 1st year electrical engineering student@avans university of applied sciences
