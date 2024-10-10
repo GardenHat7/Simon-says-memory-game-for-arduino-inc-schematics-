@@ -13,3 +13,5 @@ the resistors i used are:
 1x arduino(i used a arduino uno R3)
 
 1x breadboard with cables or blank pcb
+
+(will upload KiCad schematic later)
